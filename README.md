@@ -1,3 +1,7 @@
+# Forked from anvoynov/GANLatentDiscovery
+
+This is a fork from anvoynov/GANLatentDiscovery it has minor changes to suit my needs. The following is the readme of anvoynov/GANLatentDiscovery.
+
 # Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
 
 Authors official implementation of the [_Unsupervised Discovery of Interpretable Directions in the GAN Latent Space_](https://arxiv.org/abs/2002.03754) (ICML 2020).
